@@ -1,4 +1,4 @@
-my personal profile <br>
+my personal profile <br><br>
 👋 Hi I am Shuang<br>
 currently studying at Sacred Heart high school<br><br>
 🚀 My most used language<br>
